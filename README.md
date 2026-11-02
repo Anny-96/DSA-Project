@@ -18,6 +18,8 @@ Tools Used
   4. Evaluate branch-level and department-level cost efficiencies.
   5. Provide data-backed actionable strategic recommendations for executive leadership.
 
+### Visualisation
 
+[Click here](https://github.com/Anny-96/DSA-Project/blob/main/RDC%20LOGO.PNG?raw=true)
 
 This is where I built my first portfolio while learning at the Incubator Hub
