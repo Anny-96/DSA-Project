@@ -11,5 +11,13 @@ Tools Used
 - Power BI (for creating a report)
 - MS Powerpoint (for presentation)
 
+### Assignment
+  1. Produce a monthly interactive Profit & Loss (Income) Statement.
+  2. Compare period-over-period financial performance (2024 vs 2025).
+  3. Pinpoint the major operational and macroeconomic expense drivers behind profit margin compression.
+  4. Evaluate branch-level and department-level cost efficiencies.
+  5. Provide data-backed actionable strategic recommendations for executive leadership.
+
+RDC LOG
 
 This is where I built my first portfolio while learning at the Incubator Hub
