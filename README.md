@@ -11,6 +11,16 @@ Tools Used
 - Power BI (for creating a report)
 - MS Powerpoint (for presentation)
 
+### Data Analysis
+
+This is where we include some basic line of code or queries or even some of the DAX expressions used during analysis
+
+Eg
+```
+SELECT * FROM DimDepartment
+WHERE DepartmentType = Operations
+```
+
 ### Assignment
   1. Produce a monthly interactive Profit & Loss (Income) Statement.
   2. Compare period-over-period financial performance (2024 vs 2025).
